@@ -1,0 +1,10 @@
+langchain==1.0.7
+supabase
+pandas
+transformers==4.57.1
+langchain_community
+langchain-huggingface
+langchain_text_splitters
+sentence-transformers
+dotenv
+pymupdf
